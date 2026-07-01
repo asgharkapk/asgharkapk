@@ -21,7 +21,7 @@ forked from Blue-Protocol-Source/BPSR-ZDPS
   * BPTimer enabled: Enabled
   * BPTimer field boss HP reports: Enabled
   * Display active per second values in meters: Disabled
-  * NPC Taken → Show HP data: Disabled
+  * NPC Taken → Show HP data: Enabled
   * NPC Taken → Hide max HP: Enabled
   * NPC Taken → Show HP percent bar: Enabled
 * Updated progress bar colors.
@@ -31,4 +31,5 @@ forked from Blue-Protocol-Source/BPSR-ZDPS
 * Historical encounter warning message.
 * "Viewing Historical Encounter Data" button/warning to reduce UI clutter.
 ---
-# https://github.com/asgharkapk/resonance-logs-cn/blob/main/README_EN.md
+## [asgharkapk/resonance-logs-cn](https://github.com/asgharkapk/resonance-logs-cn)
+forked from fudiyangjin/resonance-logs-cn
