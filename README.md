@@ -30,3 +30,5 @@ forked from Blue-Protocol-Source/BPSR-ZDPS
 ### Removed
 * Historical encounter warning message.
 * "Viewing Historical Encounter Data" button/warning to reduce UI clutter.
+---
+# https://github.com/asgharkapk/resonance-logs-cn/blob/main/README_EN.md
